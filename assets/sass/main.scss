@@ -57,3 +57,8 @@
 	@import 'layout/intro';
 	@import 'layout/footer';
 	@import 'layout/menu';
+
+	img {
+		max-width: 100%;
+		height: auto;
+	}
